@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<root>
+  <item>
+    <name>Fn+hjkl (dvorak) to Left/Down/Up/Right</name>
+    <identifier>option.vimode_fn_hjkl_dvorak</identifier>
+    <autogen>__KeyToKey__ KeyCode::J, ModifierFlag::FN, KeyCode::CURSOR_LEFT</autogen>
+    <autogen>__KeyToKey__ KeyCode::C, ModifierFlag::FN, KeyCode::CURSOR_DOWN</autogen>
+    <autogen>__KeyToKey__ KeyCode::V, ModifierFlag::FN, KeyCode::CURSOR_UP</autogen>
+    <autogen>__KeyToKey__ KeyCode::P, ModifierFlag::FN, KeyCode::CURSOR_RIGHT</autogen>
+  </item>
+</root>
